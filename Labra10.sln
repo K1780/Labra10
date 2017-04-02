@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{1E517EED-A991-4E73-BA26-DE8AB086BCFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ostoslista", "WpfApplication1\Ostoslista.csproj", "{1E517EED-A991-4E73-BA26-DE8AB086BCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid\Grid.csproj", "{F603E8AE-9C56-4454-933F-391C420B6755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottokone", "Lottokone\Lottokone.csproj", "{AC5C4B23-09AB-4F16-B530-76B8C8ED259D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1E517EED-A991-4E73-BA26-DE8AB086BCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E517EED-A991-4E73-BA26-DE8AB086BCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E517EED-A991-4E73-BA26-DE8AB086BCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F603E8AE-9C56-4454-933F-391C420B6755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F603E8AE-9C56-4454-933F-391C420B6755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F603E8AE-9C56-4454-933F-391C420B6755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F603E8AE-9C56-4454-933F-391C420B6755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5C4B23-09AB-4F16-B530-76B8C8ED259D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5C4B23-09AB-4F16-B530-76B8C8ED259D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5C4B23-09AB-4F16-B530-76B8C8ED259D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5C4B23-09AB-4F16-B530-76B8C8ED259D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
